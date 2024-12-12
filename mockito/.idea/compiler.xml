@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mockito-restTemplate" />
+        <module name="api-request" />
+        <module name="restTemplate" />
+        <module name="mockito-controller" />
+        <module name="basic-and-restTemplate" />
+        <module name="mock-object" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api-request" target="11" />
+      <module name="basic-and-restTemplate" target="11" />
+      <module name="example2and4" target="11" />
+      <module name="mock-object" target="11" />
+      <module name="mockito-controller" target="11" />
+      <module name="mockito-restTemplate" target="11" />
+      <module name="restTemplate" target="11" />
+      <module name="usesr-service" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api-request" options="-parameters" />
+      <module name="basic-and-restTemplate" options="-parameters" />
+      <module name="example2and4" options="-parameters" />
+      <module name="mock-object" options="-parameters" />
+      <module name="mockito-controller" options="-parameters" />
+      <module name="mockito-restTemplate" options="-parameters" />
+      <module name="restTemplate" options="-parameters" />
+      <module name="usesr-service" options="-parameters" />
+    </option>
+  </component>
+</project>

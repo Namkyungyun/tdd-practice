@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mockito/api-request.iml" filepath="$PROJECT_DIR$/mockito/api-request.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-mockito/basic-and-restTemplate.iml" filepath="$PROJECT_DIR$/basic-mockito/basic-and-restTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mock.iml" filepath="$PROJECT_DIR$/.idea/mock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example1/mock-object.iml" filepath="$PROJECT_DIR$/example1/mock-object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mockito-controller/mockito-controller.iml" filepath="$PROJECT_DIR$/mockito-controller/mockito-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mockito-restTemplate/mockito-restTemplate.iml" filepath="$PROJECT_DIR$/mockito-restTemplate/mockito-restTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restTemplate/restTemplate.iml" filepath="$PROJECT_DIR$/restTemplate/restTemplate.iml" />
+    </modules>
+  </component>
+</project>
